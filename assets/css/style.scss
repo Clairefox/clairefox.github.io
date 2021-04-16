@@ -2,3 +2,32 @@
 ---
 
 @import "{{ site.theme }}";
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: currentColor;
+    vertical-align: text-bottom;
+    align-content: center;
+}
+
+ul {
+  margin: 0 0 0px;
+  padding: 0 0 0px;
+}
+
+.social-media-list {
+    list-style: none;
+    display: table;
+    li {
+      float: left;
+      margin: 0px 10px 0px 0px;
+      &:last-of-type { margin-right: 0 }
+      a {
+        display: block;
+        border: 1px solid 1;
+        &:hover { border-color: rgb(121, 121, 121) }
+      }
+    }
+}

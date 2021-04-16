@@ -9,7 +9,14 @@ google_analytics:
 description: Welcome to my treasure trove of heckin cool code n stuff!
 
 # social links
-twitter_username: Teh_Carla # DO NOT include the @ character, or else the build will fail!
-github_username:  clairefox # DO NOT include the @ character, or else the build will fail!
+social_links:
+  twitter: 
+  github: clairefox
+  stackoverflow: "4885230"
+  facebook: 
+  instagram: 
+  linkedin: carlayoung07
+  pinterest: 
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
