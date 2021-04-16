@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
+theme: theme-clairefox
 author: Clairefox
 email: claire.2007@live.com
 title: Carla's Portfolio
-logo: "\assets\img\logo.png"
+logo: \assets\img\logo.png
 show_downloads: false
 description: > # this means to ignore newlines until "baseurl:"
   A portfolio site showcasing my code work. test2.
