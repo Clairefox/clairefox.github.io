@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to my site
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat varius velit ac lacinia. Proin at tristique elit, in aliquet enim. Mauris id vulputate erat. Morbi eu ante a est tempus laoreet ut ac odio. Nam dignissim purus turpis, et rutrum leo sodales non. Fusce ac volutpat est. Nam massa risus, suscipit vitae erat ac, finibus convallis tellus. Fusce vel dolor vitae quam semper cursus. Aliquam luctus mauris at dolor ultricies, eleifend scelerisque est egestas. Donec in lacinia justo. Suspendisse eget ultrices leo.
