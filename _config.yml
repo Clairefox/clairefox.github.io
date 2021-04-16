@@ -1,11 +1,12 @@
 theme: jekyll-theme-minimal
+title: Carla's Awesome Portfolio
 author: Clairefox
 email: claire.2007@live.com
-title: Carla's Portfolio
 logo: /assets/img/logo.png
 show_downloads: false
-description: > # this means to ignore newlines until "baseurl:"
-  A portfolio site showcasing my code work.
+google_analytics: 
+
+description: Welcome to my treasure trove of heckin cool code n stuff!
 
 # social links
 twitter_username: Teh_Carla # DO NOT include the @ character, or else the build will fail!
