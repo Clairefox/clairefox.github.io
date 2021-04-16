@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  padding-left: 50px;
+  float: left;
+}
+
+section {
+  width: 60%;
+  float: left;
+  padding-left: 300px;
+}
+
 .svg-icon {
     width: 16px;
     height: 16px;
