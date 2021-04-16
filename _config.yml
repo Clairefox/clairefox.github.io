@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+author: Clairefox
+email: claire.2007@live.com
+title: Carla's' Portfolio
+logo: \_images\logo.png
+show_downloads: false
+description: > # this means to ignore newlines until "baseurl:"
+  A portfolio site showcasing my code work.
+
+# social links
+twitter_username: Teh_Carla # DO NOT include the @ character, or else the build will fail!
+github_username:  clairefox # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage

@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://clairefox.github.io/">
-    <img src="_images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Welcome to My Portfolio!</h3>
   <p align="center">
