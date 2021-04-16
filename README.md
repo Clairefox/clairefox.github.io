@@ -147,3 +147,4 @@ See [![License][license-shield]][license-url] for more information.
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
+* [GitHub Pages Theme: Minimal](https://github.com/orderedlist/minimal)
