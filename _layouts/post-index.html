@@ -13,7 +13,7 @@ layout: default
         {% endif %}
         <article>
             {% if post.url contains 'http' %}
-				        {% assign domain = '' %}
+                {% assign domain = '' %}
             {% endif %}
             <p>
                 <b><a href="{{ domain }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></b><br />
