@@ -59,6 +59,7 @@
 
 
 ## About The Project
+
 This is my main repository that I use to showcase all the work I've done that can be shared, as well as any blog posts (that I plan on creating).
 If you're reading this, then you're actually looking at the back side of my GitHub site! :sweat_smile: How about peaking around the <a href="https://clairefox.github.io/">front</a> first if you haven't already?
 
@@ -68,34 +69,40 @@ My main goal of having this portfolio site is to be creative first, and showcase
 
 
 ### Built With
+
 * [GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 * [Markdown](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 
 
 ### Hosted on GitHub Pages
+
 If you haven't made a GitHub Pages before, please check out their tutorial here.
 * https://lab.github.com/githubtraining/github-pages
 
 
 ## Roadmap
+
 See my [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 ### Contributing
+
 Since this is my personal portfolio, I'm going to have to say contributing is limited to just myself.
 I'm allowed to be selfish about this!
 
-
 ## License
+
 See [![License][license-shield]][license-url] for more information.
 
 
 ## Contact
+
 * Problem with my site? Review open issues and/or submit a new one: [open issues](https://github.com/othneildrew/Best-README-Template/issues)
 * Something else you want to share with me? TODO: Link to email form
 
 
 ## Acknowledgements
+
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)

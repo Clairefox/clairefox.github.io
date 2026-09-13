@@ -13,8 +13,8 @@ bundle update
 
 # Build a new gem archive.
 
-rm -rf jekyll-theme-minimal-*.gem
-gem build -q jekyll-theme-minimal.gemspec
+rm -rf jekyll-theme-chirpy-*.gem
+gem build -q jekyll-theme-chirpy.gemspec
 
 # Make sure we're on the master branch.
 
