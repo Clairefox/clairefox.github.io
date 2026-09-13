@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h1>My Projects:</h1>
-
+<!-- TODO: Make this a template and import and format a dict/JSON/hashtable/something -->
 <table>
     <tr>
         <th>Project</th>

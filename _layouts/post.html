@@ -7,7 +7,7 @@ layout: default
 
 
 <p class="view">
-  by {{ page.author | default: site.author }} | {{ page.date | date: "%-d %B %Y" }} <br />
+  by {{ page.author | default: site.author }} | {{ page.created | date: "%-d %B %Y" }} | {{ page.updated | date: "%-d %B %Y" }} <br />
   <span>[
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
