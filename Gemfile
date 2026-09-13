@@ -9,19 +9,18 @@ source 'https://rubygems.org'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# Upgrades Jekyll and brings in the modern version of Liquid
+gem "jekyll", "~> 4.3"
+# Commented out for Jekyll native
+# gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-# gem "jekyll"
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Windows local development requirements
+gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 group :jekyll_plugins do
-  # gem "jekyll-archives"
+  gem 'bigdecimal'
+  gem 'csv'
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'webrick'
-  gem 'csv'
-  gem 'bigdecimal'
 end
